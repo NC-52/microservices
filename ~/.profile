@@ -1,9 +1,0 @@
-# export PATH=C:\Users\NC\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\NC\AppData\Local\Programs\Python\Python38-32\;C:\Users\NC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\NC\AppData\Roaming\npm
-export POSTGRES_USERNAME=newncudagram;
-export POSTGRES_PASSWORD=newncudagram;
-export POSTGRES_DATABASE=newncudagram
-export POSTGRES_HOST=newncudagram.c9liezssukob.us-east-2.rds.amazonaws.com;
-export AWS_REGION=us-east-2;
-export AWS_PROFILE=default;
-export AWS_MEDIA_BUCKET=newncudagram-dev;
-export JWT_SECRET=helloworld;
